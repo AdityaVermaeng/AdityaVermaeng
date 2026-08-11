@@ -1,181 +1,93 @@
-## Hi there 👋
-# Hi, I'm Aditya Verma 👋
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/rahul3rj/leetcode/refs/heads/main/Frame%204.png" />
+</div>
 
-### Frontend Developer | MERN Stack Developer | B.Tech CSE Graduate
+<h4 align="center">MERN Full Stack Developer • UI/UX Developer</h4>
 
-I'm a **B.Tech Computer Science graduate (2025)** and a passionate **Frontend / MERN Stack Developer** focused on building responsive, user-friendly, and scalable web applications.
+<h1 align="center">Namaste 🙏 I'm Aditya Verma</h1>
 
-I enjoy turning ideas into real-world products using **React, JavaScript, Tailwind CSS, Node.js, Express.js, and MongoDB**.
+<h5 align="center">Building full-stack web apps with clean UI, solid backend architecture, and real-world impact.</h5>
 
-* 🎓 B.Tech in Computer Science & Engineering — AKTU, 2025
-* 💻 MERN Stack Developer
-* 🎨 Strong interest in Frontend Development & UI/UX
-* 🚀 Building and deploying full-stack web applications
-* 🌱 Continuously improving my skills in modern React and full-stack development
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="40" alt="bootstrap logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="postman logo" />
+</div>
 
----
+<br clear="both">
 
-## 🛠️ Tech Stack
+<h6 align="left">
+I'm a Computer Science graduate and MERN Full Stack Developer who loves turning ideas into full-stack products — from the database schema to the pixel-perfect UI.<br>
+I'm currently interning as a MERN Stack Developer, building RESTful APIs, authentication flows, and responsive React interfaces used by real users.<br><br>
+<b>What I'm Working On</b><br>
+🏠 Built <b>EstateHub</b>, a full-stack real estate platform with role-based access, Google Maps integration, and admin approval workflows.<br>
+🎟️ Shipped <b>Eventora</b>, an event booking platform with OTP verification, seat validation, and automated email notifications.<br>
+💼 Interning at <b>CETPA Infotech</b>, building full-stack MERN applications and REST APIs.<br>
+🎨 Completed a UI/UX traineeship with <b>NASSCOM Foundation (Accenture Project)</b>, bridging Figma design with front-end code.<br>
+📚 Strengthening Data Structures, OOP, and MVC architecture fundamentals.
+</h6>
 
-### Frontend
+<br clear="both">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AdityaVermaeng/AdityaVermaeng/trophy-output/trophy.svg?theme=oldie&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" />
+</div>
 
-### Backend & Database
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AdityaVermaeng/AdityaVermaeng/activity-graph-output/activity-graph.svg?radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true&bg_color=0D1117&color=ECECEC&title_color=ECECEC&line=979797&area_color=ECECEC&point=ECECEC" height="253" alt="activity-graph graph" />
+</div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-</p>
+<h3 align="center">Stats 🔥</h3>
 
-### Tools & Platforms
+<br clear="both">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,npm,postman" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AdityaVermaeng&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
+</div>
 
----
+<br clear="both">
 
-## 🚀 Featured Projects
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AdityaVermaeng/AdityaVermaeng/stats-output/stats.svg?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
+  <img src="https://raw.githubusercontent.com/AdityaVermaeng/AdityaVermaeng/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph" />
+</div>
 
-### 🏠 EstateHub — Real Estate Management Platform
+<h3 align="center">🔗 Connect with me</h3>
 
-A full-stack real estate platform built with the MERN stack.
-
-**Key Features**
-
-* User authentication and role-based access
-* Property listing and management
-* Admin approval workflow
-* Property search and filtering
-* Owner and buyer functionality
-* Property inquiry management
-* Google Maps integration
-* MongoDB-based property management
-
-**Tech:** React.js · Node.js · Express.js · MongoDB · Tailwind CSS
-
----
-
-### 🎟️ Eventora — Full-Stack Event Booking Platform
-
-A MERN-based event booking platform designed for users and event organizers.
-
-**Key Features**
-
-* User registration and authentication
-* Email OTP verification
-* Free and paid event support
-* Event organizer dashboard
-* Booking management
-* Admin approval workflow
-* Event management system
-
-**Tech:** React.js · Node.js · Express.js · MongoDB · JWT · Tailwind CSS
-
----
-
-### 🤖 AI Learning Assistant
-
-An AI-powered learning platform designed to help students learn, organize, and revise educational content.
-
-**Features**
-
-* AI-powered conversations
-* Document-based learning
-* Chat history
-* Flashcards
-* Quiz generation
-* AI model integration
-
-**Tech:** React.js · Node.js · Express.js · MongoDB · OpenRouter API
-
----
-
-### 🎬 BlueBird Movies
-
-A React-based movie discovery platform using the TMDB API.
-
-**Features**
-
-* Movie discovery
-* Search functionality
-* Movie details
-* Responsive UI
-* Google authentication
-
-**Tech:** React.js · JavaScript · TMDB API · Firebase · CSS
-
----
-
-## 💼 Experience
-
-### MERN Stack Intern — CETPA Infotech Pvt. Ltd.
-
-**6 Months**
-
-Worked on modern web development using the MERN stack and gained practical experience in:
-
-* React.js
-* JavaScript
-* Node.js
-* Express.js
-* MongoDB
-* REST APIs
-* Git & GitHub
-* Responsive web development
-
-### MERN Stack Training
-
-**4 Months**
-
-Hands-on training focused on full-stack web development, including frontend development, backend APIs, databases, authentication, and deployment.
-
-### UI/UX Design Training — Accenture
-
-**3 Months**
-
-Developed foundational knowledge of UI/UX principles, user-centered design, wireframing, and creating intuitive digital experiences.
-
----
-
-## 📚 Currently Learning
-
-* Advanced React.js
-* Modern JavaScript
-* Frontend Architecture
-* TypeScript
-* Full-Stack Application Development
-* API Design & Integration
-* Modern UI/UX Development
-* AI-powered Web Applications
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaVermaeng&show_icons=true&theme=transparent&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaVermaeng&layout=compact&theme=transparent&hide_border=true" height="170" />
-</p>
-
----
-
-## 🤝 Let's Connect
-
-<p>
-  <a href="https://linkedin.com/in/aditya-verma0">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<div align="center">
+  <a href="https://linkedin.com/in/aditya-verma0/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="mailto:adityafriendrahul@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://github.com/AdityaVermaeng" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="github logo" />
   </a>
-</p>
+  <a href="mailto:adityafriendrahul@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+</div>
 
----
-
-### 💡 "Building interfaces that are simple, useful, and enjoyable to use."
-
-⭐ Feel free to explore my repositories and connect with me!
-
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=AdityaVermaeng.AdityaVermaeng&" alt="profile views" />
+</div>
